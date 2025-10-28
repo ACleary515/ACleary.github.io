@@ -1,20 +1,19 @@
-# Heading 1
-## Heading 2
-### Heading 3
+# Website
+## Github
+### Examples
 
-**Bold Text**
-*Italic text*
-Strikethrough
-> Backquote
+**GitHub**
+*Fancy text*
+> Hello
 
  https://githhub.com
 
-- Bullet list item
-- Another item
-- Nested item
+- how to
+- list
+- items
 
-1. Numbered list item
-2. Second item
+1. and number 
+2. them
 
 - [x] setup github pages
 - [ ] add portpholio projects
