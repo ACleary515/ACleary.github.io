@@ -7,12 +7,17 @@
 Strikethrough
 > Backquote
 
-https://githhub.com
+ https://githhub.com
 
--Bullet list item
--Another item
--Nested item
+- Bullet list item
+- Another item
+- Nested item
 
 1. Numbered list item
 2. Second item
+
+- [x] setup github pages
+- [ ] add portpholio projects
+- [ ] Write blog post
+
 
